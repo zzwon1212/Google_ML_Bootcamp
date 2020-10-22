@@ -1,1 +1,8 @@
+# ipynb_checkpoints
 .ipynb_checkpoints
+
+# Lab files
+Lab*.ipynb
+
+# Certification files
+이지원*.jpg
