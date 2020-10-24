@@ -1,4 +1,4 @@
-# ML_Bootcamp
+# Google_ML_Bootcamp
 
 ### About Google Developers Machine Learning Bootcamp
 
@@ -12,7 +12,7 @@
 
 ### 2. Get certifications related to ML
 
-[Receive the TensorFlow Developer Certificate | TensorFlow](https://www.tensorflow.org/certificate)
+[TensorFlow Developer Certificate | TensorFlow](https://www.tensorflow.org/certificate)
 
 [Professional Data Engineer Certification | Google Cloud](https://cloud.google.com/certification/data-engineer)
 
