@@ -1,6 +1,9 @@
 # ipynb_checkpoints
 .ipynb_checkpoints
 
+# Lecture materials
+materials
+
 # Lab files
 Lab*.ipynb
 
